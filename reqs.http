@@ -1,7 +1,5 @@
-@server = http://localhost:8080/api/ec3
+@api = http://localhost:8080/api/ec3
 
-
-@api = {{server}}
 
 ################ Categorias: ################
 ###
